@@ -1,4 +1,4 @@
-# Deep Learning with PyTorch
+# Deep Learning with PyTorch Notes
 
 Source: [https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)
 
