@@ -3,6 +3,7 @@
 Source: [https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)
 
 Notes made for chosen chapters when reading a book. 
+Additional informations are included in each jupyter notebook for given chapter.
 
 ## Chapter 5
 
